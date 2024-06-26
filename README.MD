@@ -67,4 +67,6 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 
 Chat, simule um podcast entre duas pessoas, onde uma chamada joao e a outra maria, Joao eh expert em java e maria eh recrutadora de novos talentos, faca uma breve descucao sobre quais as dificuldades na introducao ao mercado dev de trabalho nos dias atuas.Separe cada fala para ficar facil de entender 
 
+## Upload PodCast
 
+-[PodCast](output/podcast_2JYvPpsW.mp4)
